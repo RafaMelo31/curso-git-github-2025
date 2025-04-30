@@ -1,1 +1,3 @@
 Esse arquivo contém comandos secundários do git
+- Novos comandos 
+- Mesclar com a branch main
