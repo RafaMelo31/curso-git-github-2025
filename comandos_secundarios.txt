@@ -1,3 +1,7 @@
 Esse arquivo contém comandos secundários do git
 - Novos comandos 
 - Mesclar com a branch main
+
+<Padronização_de_commits>
+
+https://medium.com/@heliandro.l/git-padroniza%C3%A7%C3%A3o-de-commits-561bec5eb4b7
